@@ -1,0 +1,9 @@
+CampusLinkRepair（校园网连接修复助手）
+
+本项目包含基于以下作者代码修改的部分：
+Optance (Si/nagelanping), xiao.yi.ming@foxmail.com
+Copyright (c) 2025-2026
+
+原始 MIT 版权与许可声明完整保留于 LICENSE。
+本次维护包括 Windows 本机代理残留诊断与恢复，以及 CampusLinkRepair 项目命名与文档调整。
+新名称用于标识当前维护版本，不代表原作者为修改内容背书。

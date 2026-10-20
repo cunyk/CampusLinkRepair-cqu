@@ -1,0 +1,8 @@
+.obsidian/
+release/
+*.code-workspace
+src/linux/campus-link-repair
+src/windows/campus-link-repair.exe
+/campus-link-repair
+/campus-link-repair.exe
+tests/windows/*.exe
